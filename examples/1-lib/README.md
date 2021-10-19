@@ -4,7 +4,7 @@
 
 ![](/.github/assets/example-1.png)
 
-Neste exemplo teremos um sistema com a seguinte arquitetura:
+Neste exemplo teremos um sistema com a seguinte arquitetura::
 
 - User Service:
     - API REST
